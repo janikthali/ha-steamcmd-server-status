@@ -1,9 +1,0 @@
-{
-  "domain": "ha-steamcmd-server-status",
-  "name": "SteamCMD Server Status",
-  "version": "1.0.0",
-  "documentation": "https://github.com/janikthali/ha-steamcmd-server-status",
-  "requirements": ["python-a2s>=1.4.1"],
-  "dependencies": [],
-  "codeowners": []
-}
