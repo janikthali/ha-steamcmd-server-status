@@ -1,0 +1,5 @@
+sensor:
+  - platform: ha-steamcmd-server-status
+    host: YOUR_SERVER_IP
+    port: STEAM_QUERY_PORT
+    name: YOUR_NAmE
